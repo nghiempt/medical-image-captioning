@@ -52,17 +52,17 @@ A copy of the repository is also archived at *insert DOI here*
 
 
 ## Dataset detail
-| id            | appN           | pkgN | iCr          | iCm         | iCs         |
-| ------------- | -------------  | ------------ | ------------ | -----------  |-----------  |
-| 1             | Once: Perfect Match Dating App | com.udates | 1 | 0 | 0 |
-| 2             | Photo Collage Maker Editor | cornera.touchretouch | 0 | 1 | 0 |
-| 3             | Pict2Cam | com.adriangl.pict2cam | 1 | 0 | 0 |
-| 4             | Blend Photo Editor – Effects | com.multiphotoblender.photomixer | 1 | 0 | 0 |
-| 5             | Wild Animal Photo Frames | com.appbites.wildanimalphotoframes | 1 | 0 | 0 |
-| 6             | Baby Photo Nice Baby wallpaper | com.cuteBaby.BabyPhotos | 1 | 0 | 0 |
-| 7             | Mobile Phone Photo Frames | freeappshouse.mobile.phone.photo.frames.editor | 1 | 0 | 0 |
-| 8             | CSL – Meet, Chat, Pla‪y & Date | com.jaumo.casual | 1 | 0 | 0 |
-| 9             | Body Plastic Surgery | com.ster.photo.surgery | 1 | 0 | 0 |
-| 10            | Family Photo Frame | com.Family.Photoframee | 1 | 0 | 0 |
+| id            | image | caption |
+| ------------- | -------------  | ------------ |
+| 1             | 20586908_6c613a14b80a8591_MG_R_CC_ANON.jpg | một nốt nằm ở vú trái có đường kính 25 mm, với... |
+| 2             | 20586934_6c613a14b80a8591_MG_L_CC_ANON.jpg | một nốt nằm ở vú trái có đường kính 25 mm, với... |
+| 3             | 20586960_6c613a14b80a8591_MG_R_ML_ANON.jpg | một nốt nằm ở vú trái có đường kính 25 mm, với... |
+| 4             | 20586986_6c613a14b80a8591_MG_L_ML_ANON.jpg | một nốt nằm ở vú trái có đường kính 25 mm, với... |
+| 5             | 20587054_b6a4f750c6df4f90_MG_R_CC_ANON.jpg | Nhũ ảnh ghi lại một cụm vi vôi hóa nằm ở vú ph... |
+| 6             | 20587080_b6a4f750c6df4f90_MG_R_ML_ANON.jpg | Nhũ ảnh ghi lại một cụm vi vôi hóa nằm ở vú ph... |
+| 7             | 20587148_fd746d25eb40b3dc_MG_R_CC_ANON.jpg | Nhũ ảnh ghi lại một cụm vi vôi hóa nằm ở vú ph... |
+| 8             | 20587174_fd746d25eb40b3dc_MG_L_CC_ANON.jpg | không có hình ảnh nốt nào gợi ý ác tính, vôi ... |
+| 9             | 20587200_fd746d25eb40b3dc_MG_R_ML_ANON.jpg | không có hình ảnh nốt nào gợi ý ác tính, vôi ... |
+| 10            | 20587226_fd746d25eb40b3dc_MG_L_ML_ANON.jpg | không có hình ảnh nốt nào gợi ý ác tính, vôi ... |
 
 Full dataset can be found in [kaggle](https://www.kaggle.com/datasets/nghiemthanhpham/inbreast).
