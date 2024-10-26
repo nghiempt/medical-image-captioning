@@ -1,4 +1,4 @@
-# DPL303m - Medical Image Captioning
+# Medical Image Captioning
 
 ## Introduction
 
